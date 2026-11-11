@@ -1,0 +1,74 @@
+{
+  "slicing/body_bottom/slice_result.json": {
+    "mtime": 1794432969.2485018,
+    "seen": 1794434323.4991193,
+    "ast_hash": "f8138fd199dc888bfa242096e6c78159",
+    "semantic_hash": "f8138fd199dc888bfa242096e6c78159"
+  },
+  "slicing/body_bottom/supports_check.json": {
+    "mtime": 1794432971.9156408,
+    "seen": 1794434323.4991426,
+    "ast_hash": "04280ebbb30a9ffb18abb78b5761e7b5",
+    "semantic_hash": "04280ebbb30a9ffb18abb78b5761e7b5"
+  },
+  "slicing/body_top/slice_result.json": {
+    "mtime": 1794433578.0389855,
+    "seen": 1794434323.499146,
+    "ast_hash": "76392421454ab581c717f6c3e722d19b",
+    "semantic_hash": "76392421454ab581c717f6c3e722d19b"
+  },
+  "slicing/body_top/supports_check.json": {
+    "mtime": 1794433579.9795282,
+    "seen": 1794434323.4991481,
+    "ast_hash": "7ca7ef0a400a134f067ccee5b64f1b99",
+    "semantic_hash": "7ca7ef0a400a134f067ccee5b64f1b99"
+  },
+  "slicing/tire_lever/slice_result.json": {
+    "mtime": 1794432973.1136823,
+    "seen": 1794434323.49915,
+    "ast_hash": "bf31e7809f92180fa81061d6b03ef616",
+    "semantic_hash": "bf31e7809f92180fa81061d6b03ef616"
+  },
+  "slicing/tire_lever/supports_check.json": {
+    "mtime": 1794432973.934301,
+    "seen": 1794434323.4991517,
+    "ast_hash": "08e2d9b5564008e8bb978755f2523674",
+    "semantic_hash": "08e2d9b5564008e8bb978755f2523674"
+  },
+  "docs/checks.md": {
+    "mtime": 1794433078.6008415,
+    "seen": 1794434323.4991534,
+    "ast_hash": "9a3bd1943fe3a0600031a5dca8548d1b",
+    "semantic_hash": "9a3bd1943fe3a0600031a5dca8548d1b"
+  },
+  "docs/scope.md": {
+    "mtime": 1794348296.95206,
+    "seen": 1794434323.4991553,
+    "ast_hash": "cd62c4acceff39e97c13200a06b376da",
+    "semantic_hash": "cd62c4acceff39e97c13200a06b376da"
+  },
+  "research/sources.md": {
+    "mtime": 1794348250.0731547,
+    "seen": 1794434323.4991565,
+    "ast_hash": "25e25f11d048a92e9445914c601baa93",
+    "semantic_hash": "25e25f11d048a92e9445914c601baa93"
+  },
+  "sim/README.md": {
+    "mtime": 1794434027.478114,
+    "seen": 1794434323.4991584,
+    "ast_hash": "618b6d86ab83954e94fe7cc64833bcea",
+    "semantic_hash": "618b6d86ab83954e94fe7cc64833bcea"
+  },
+  "sim/hand_calculation.md": {
+    "mtime": 1794433112.5044196,
+    "seen": 1794434323.4991598,
+    "ast_hash": "8cf69947958960e2fc5137ba2703d702",
+    "semantic_hash": "8cf69947958960e2fc5137ba2703d702"
+  },
+  "slicing/README.md": {
+    "mtime": 1794433154.298184,
+    "seen": 1794434323.4991615,
+    "ast_hash": "bdad24647b13e50b113926f49b9e3b35",
+    "semantic_hash": "bdad24647b13e50b113926f49b9e3b35"
+  }
+}

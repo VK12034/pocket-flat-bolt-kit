@@ -1,0 +1,63 @@
+{
+    "error_string": "Success.",
+    "export_time": 389,
+    "layer_height": 0.20000000298023224,
+    "plate_index": 0,
+    "prepare_time": 44,
+    "return_code": 0,
+    "sliced_plates": [
+        {
+            "feature_type_times": {
+                "Bottom surface": 84.78007507324219,
+                "Bridge": 67.41757202148438,
+                "Custom": 35.38702392578125,
+                "Gap infill": 0.6417794823646545,
+                "Inner wall": 325.65313720703125,
+                "Internal solid infill": 181.3294677734375,
+                "Outer wall": 95.43119812011719,
+                "Sparse infill": 519.1766357421875,
+                "Top surface": 52.063751220703125,
+                "Travel": 128.23558044433594,
+                "Undefined": 112.78877258300781
+            },
+            "filament_change_times": 0,
+            "filaments": [
+                {
+                    "filament_id": "GFG00",
+                    "id": 1,
+                    "main_used_g": 11.955114364624023,
+                    "total_used_g": 11.955114364624023
+                }
+            ],
+            "generate_support_material_time": 7,
+            "id": 1,
+            "infill_time": 221,
+            "layer_filament_change": 0,
+            "main_predication": 1454.7989501953125,
+            "make_perimeters_time": 49,
+            "obj_cached_cnt": 0,
+            "objects": [
+                {
+                    "bbox": {
+                        "depth": 25.0,
+                        "height": 6.0,
+                        "width": 107.0,
+                        "x": 74.49999237060547,
+                        "y": 115.5,
+                        "z": 0.0
+                    },
+                    "id": 5,
+                    "name": "PFBK_v0.1_tire_lever_print_x2.stl",
+                    "triangle_count": 328
+                }
+            ],
+            "sliced_time": 544,
+            "sliced_time_with_cache": 238,
+            "total_predication": 1474.7086181640625,
+            "triangle_count": 328,
+            "warning_message": ""
+        }
+    ],
+    "sparse_infill_density": 40.0,
+    "wall_loops": 5
+}

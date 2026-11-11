@@ -1,0 +1,11 @@
+{
+ "excludes": [
+  "*.png",
+  "*.stl",
+  "*.step",
+  "*.3mf",
+  "*.f3d",
+  "slicing/profiles/*",
+  "graphify-out/*"
+ ]
+}
